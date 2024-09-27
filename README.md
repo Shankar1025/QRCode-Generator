@@ -8,7 +8,7 @@ Share the QR code directly using the Web Share API
 User-friendly interface with intuitive design
 Responsive layout for different screen sizes
 
-##Demo
+## Demo
 You can try the live version of the app here.
 
 ## How to Use
