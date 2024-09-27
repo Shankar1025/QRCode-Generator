@@ -10,6 +10,7 @@ Responsive layout for different screen sizes
 
 ## Demo
 You can try the live version of the app here.
+  https://shankar1025.github.io/QRCode-Generator/
 
 ## How to Use
 Enter the text or URL in the input field.
